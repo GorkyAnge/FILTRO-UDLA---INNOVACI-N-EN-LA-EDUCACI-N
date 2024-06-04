@@ -1,0 +1,124 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "calculator",
+  "identifier": "master3_d_object_model:6962-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "sourceIdentifier": "asset_collection_model:6966-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.023481350392103195,
+  "globalScaleFactor": 1,
+  "height": 0.17000001668930054,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.11045223474502563,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Calculator",
+      "identifier": "mesh:6937-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "Calculator",
+      "numberOfFaces": 19632,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:6941-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": -0.6361984014511108,
+        "y": 0.07466451823711395,
+        "z": 0.002187259029597044
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:6939-7fb2c9b3-db07-4523-bb59-047842a23586",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:6944-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:6923-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "6945-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:6947-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:6925-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "6948-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface2",
+              "identifier": "surface:6950-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:6927-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "6951-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface3",
+              "identifier": "surface:6953-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:6929-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "6954-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface4",
+              "identifier": "surface:6956-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:6931-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "6957-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface5",
+              "identifier": "surface:6959-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:6933-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "6960-7fb2c9b3-db07-4523-bb59-047842a23586"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

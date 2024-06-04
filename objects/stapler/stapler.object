@@ -1,0 +1,92 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "stapler",
+  "identifier": "master3_d_object_model:7928-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "sourceIdentifier": "asset_collection_model:7932-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.04253704473376274,
+  "globalScaleFactor": 1,
+  "height": 0.13960537314414978,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.03661155700683594,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Stapeler",
+      "identifier": "mesh:7915-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "Stapeler",
+      "numberOfFaces": 1182,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:7919-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": -0.28268951177597046,
+        "y": 0.07383520156145096,
+        "z": 0.009907124564051628
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:7917-7fb2c9b3-db07-4523-bb59-047842a23586",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:7922-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:7909-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "7923-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:7925-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:7911-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "7926-7fb2c9b3-db07-4523-bb59-047842a23586"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

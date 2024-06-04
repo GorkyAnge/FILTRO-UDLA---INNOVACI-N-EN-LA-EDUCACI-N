@@ -1,0 +1,43 @@
+{
+  "modelName": "dependent_texture_model",
+  "name": "sisisi",
+  "identifier": "dependent_texture_model:7770-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+  "sourceIdentifier": "asset_collection_model:7788-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetLocator": "c03a7145895dcb2f2c111bcf075d6c00.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {
+    "textures": [
+      {
+        "type": 1
+      }
+    ]
+  },
+  "isExternalAsset": false,
+  "originalFileHash": "6eac94c093d734ba56cca9be31b3ebc8",
+  "originalFileReference": "file_reference_model:7790-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 772,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "assetDataHash": "c03a7145895dcb2f2c111bcf075d6c00",
+      "colorCount": 42,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.1681782655992288,
+      "pixelsHigh": 1024,
+      "pixelsWide": 772
+    }
+  ]
+}

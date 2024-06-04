@@ -1,0 +1,84 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "gafash2",
+  "identifier": "master3_d_object_model:3310-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "sourceIdentifier": "asset_collection_model:3314-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.511522114276886,
+  "globalScaleFactor": 1,
+  "height": 0.21162743866443634,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.333251416683197,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Gafas",
+      "identifier": "mesh:3300-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "Gafas",
+      "numberOfFaces": 4118,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:3304-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0.00017962063429877162,
+        "ry": 0,
+        "rz": 0,
+        "sx": 0.010566400364041328,
+        "sy": 0.009999999776482582,
+        "sz": 0.010511169210076332,
+        "x": 0.0824238732457161,
+        "y": -0.02698453888297081,
+        "z": 0.027327897027134895
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:3302-7fb2c9b3-db07-4523-bb59-047842a23586",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:3307-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:3292-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "3308-7fb2c9b3-db07-4523-bb59-047842a23586"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

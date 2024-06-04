@@ -1,0 +1,116 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "pencil",
+  "identifier": "master3_d_object_model:8604-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "sourceIdentifier": "asset_collection_model:8608-7fb2c9b3-db07-4523-bb59-047842a23586",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.008000003173947334,
+  "globalScaleFactor": 1,
+  "height": 0.14000001549720764,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.008000016212463379,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Pencil",
+      "identifier": "mesh:8582-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "Pencil",
+      "numberOfFaces": 828,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:8586-7fb2c9b3-db07-4523-bb59-047842a23586",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": -0.435245156288147,
+        "y": 0.08900323510169983,
+        "z": 0.00853186845779419
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:8584-7fb2c9b3-db07-4523-bb59-047842a23586",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:8589-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:8570-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "8590-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:8592-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:8572-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "8593-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface2",
+              "identifier": "surface:8595-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:8574-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "8596-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface3",
+              "identifier": "surface:8598-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:8576-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "8599-7fb2c9b3-db07-4523-bb59-047842a23586"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface4",
+              "identifier": "surface:8601-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:8578-7fb2c9b3-db07-4523-bb59-047842a23586",
+              "surfaceGroupIdentifier": "8602-7fb2c9b3-db07-4523-bb59-047842a23586"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

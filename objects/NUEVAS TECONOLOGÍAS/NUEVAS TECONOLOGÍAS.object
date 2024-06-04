@@ -1,0 +1,82 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "NUEVAS TECONOLOGÍAS",
+  "identifier": "master3_d_object_model:58466-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+  "sourceIdentifier": "asset_collection_model:58470-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 2.9879841804504395,
+  "globalScaleFactor": 0.20151789535627646,
+  "height": 0.4000004827976227,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 9.924676895141602,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Text",
+      "identifier": "mesh:58456-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "Text",
+      "numberOfFaces": 13852,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:58460-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 0.9999999403953552,
+        "sz": 0.9999999403953552,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:58458-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:58463-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:58452-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "surfaceGroupIdentifier": "58464-9fe785ca-d50b-43e4-a9b3-d5432f7f3023"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

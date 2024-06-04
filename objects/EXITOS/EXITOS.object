@@ -1,0 +1,113 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "EXITOS",
+  "identifier": "master3_d_object_model:41521-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+  "sourceIdentifier": "asset_collection_model:41525-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 3.0640313625335693,
+  "globalScaleFactor": 0.20257670092447297,
+  "height": 0.40000051259994507,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 9.872803688049316,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "Light",
+      "identifier": "sceneObject:41509-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": -2.3119752407073975,
+        "ry": 1.2702372074127197,
+        "rz": -2.95408034324646,
+        "sx": 100.00000762939453,
+        "sy": 100.00000762939453,
+        "sz": 100,
+        "x": 0.00791996717453003,
+        "y": 1.1959848403930664,
+        "z": 0.6089403629302979
+      }
+    },
+    {
+      "modelName": "mesh",
+      "name": "Text",
+      "identifier": "mesh:41511-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "nodeName": "Text",
+      "numberOfFaces": 16592,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:41515-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:41513-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:41518-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:41505-593d9ca5-20f9-4e03-a0fc-3e045c41a477",
+              "surfaceGroupIdentifier": "41519-593d9ca5-20f9-4e03-a0fc-3e045c41a477"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

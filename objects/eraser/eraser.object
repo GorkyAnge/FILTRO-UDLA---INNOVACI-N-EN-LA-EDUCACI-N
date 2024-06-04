@@ -1,0 +1,90 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "eraser",
+  "identifier": "master3_d_object_model:76074-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+  "sourceIdentifier": "asset_collection_model:76078-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.01500002108514309,
+  "globalScaleFactor": 1,
+  "height": 0.08932872861623764,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.029999971389770508,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Eraser",
+      "identifier": "mesh:76061-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "Eraser",
+      "numberOfFaces": 220,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:76065-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": -0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": -0.5367721915245056,
+        "y": 0.07695033401250839,
+        "z": 0.0016967097762972116
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:76063-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:76068-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:76055-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "surfaceGroupIdentifier": "76069-9fe785ca-d50b-43e4-a9b3-d5432f7f3023"
+            },
+            {
+              "modelName": "surface",
+              "name": "surface1",
+              "identifier": "surface:76071-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:76057-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "surfaceGroupIdentifier": "76072-9fe785ca-d50b-43e4-a9b3-d5432f7f3023"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

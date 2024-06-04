@@ -1,0 +1,82 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "DISFRUTA",
+  "identifier": "master3_d_object_model:46653-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+  "sourceIdentifier": "asset_collection_model:46657-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 2.522989273071289,
+  "globalScaleFactor": 0.190632366357035,
+  "height": 0.4000004231929779,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 10.491397857666016,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "Text",
+      "identifier": "mesh:46643-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "Text",
+      "numberOfFaces": 13580,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:46647-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": -1.5707964897155762,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 0.9999999403953552,
+        "sz": 0.9999999403953552,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:46645-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:46650-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:46639-9fe785ca-d50b-43e4-a9b3-d5432f7f3023",
+              "surfaceGroupIdentifier": "46651-9fe785ca-d50b-43e4-a9b3-d5432f7f3023"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
